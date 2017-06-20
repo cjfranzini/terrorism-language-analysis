@@ -7,7 +7,7 @@ This is my fourth project for the [Metis](http://thisismetis.com) NYC Spring 201
 This project uses NLP and topic modeling to analyze 25 years of [New York Times](http://www.nytimes.com/) articles covering terrorism to see if such associations are present.
 
 ## Blog Post
-You can read about this project on my blog: [cjfranzini.github.io](http://cjfranzini.github.io)
+Look out for the post about this project on my blog: [cjfranzini.github.io](http://cjfranzini.github.io)
 
 ## Repo Contents
 - **notebooks:** Jupyter notebooks detailing my analysis
